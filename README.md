@@ -1,4 +1,4 @@
-### **Online Fraud Detection System**  
+### **Online Payment Fraud Detection System**  
 
 A machine learning project to classify online transactions as fraudulent or legitimate.  
 
